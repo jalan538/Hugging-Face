@@ -1,0 +1,1 @@
+It is implementation of Used of  the T5 (Text-to-Text Transfer Transformer) model from Hugging Face to generate concise summaries from long text by framing summarization as a text-to-text task, improving content understanding and readability.
